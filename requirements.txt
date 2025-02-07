@@ -1,5 +1,5 @@
 
 # tensorflow >= 2.0.0 # (should be installed manually)
 
-git+https://github.com/dillonarcuity/py-params.git@master#egg=py-params
+py-params @ git+https://github.com/dillonarcuity/py-params.git@master#egg=py-params
 params-flow >= 0.8.0
